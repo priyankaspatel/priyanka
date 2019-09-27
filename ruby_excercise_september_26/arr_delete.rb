@@ -21,8 +21,9 @@
  		p arr.delete(val)
  		p arr
  	end
- arr_delete(arr)
- end_arr_delete(arr)
- start_arr_delete(arr)
- delete_at_arr(arr,index)
- delete_all(arr,val)
+     arr_delete(arr)
+     end_arr_delete(arr)
+     start_arr_delete(arr)
+     delete_at_arr(arr,index)
+     delete_all(arr,val)
+     
